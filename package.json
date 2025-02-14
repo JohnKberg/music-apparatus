@@ -1,0 +1,26 @@
+{
+  "name": "music-apparatus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnKberg/music-apparatus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnKberg/music-apparatus/issues"
+  },
+  "homepage": "https://github.com/JohnKberg/music-apparatus#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "qs": "^6.14.0"
+  }
+}
